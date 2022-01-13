@@ -1,4 +1,4 @@
-#  watchlist
+#  towatchlist
 Rest API веб-приложение по типу списка  фильмов к просмотру. Логика на спринге, немного фронта на vue.js. Задеплоено на Heroku, доступно по адресу https://to-watch-list.herokuapp.com/
 
 ## Эндпоинты:
