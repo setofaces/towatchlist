@@ -6,7 +6,7 @@ class FilmService {
   }
 
   get (id) {
-    return http.get(`/${id}`)
+    return http.get(`films/${id}`)
   }
 
   create (data) {
@@ -14,7 +14,7 @@ class FilmService {
   }
 
   delete (id) {
-    return http.delete(`/${id}`)
+    return http.delete(`films/${id}`)
   }
 
   find (data) {
